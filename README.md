@@ -5,7 +5,7 @@
 - First clone the project
 
 ```bash
-git clone https://github.com/NoureddineMa/Syndicat-Application](https://github.com/klaitox/property-management-system
+git clone https://github.com/klaitox/property-management-system
 ```
 
 - Inside the project you have two layers, client and server, locate to each directory and install all needed dependencies
